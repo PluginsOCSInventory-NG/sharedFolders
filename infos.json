@@ -1,0 +1,10 @@
+{
+  "displayName" : "Shared Folders",
+  "author" : ["Benoit SARDA", "Valentin DEVILLE"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "description" : {
+    "fr" : "Remonte les dossiers partgés",
+    "en" : "Retrieve shared folder"
+  }
+}
