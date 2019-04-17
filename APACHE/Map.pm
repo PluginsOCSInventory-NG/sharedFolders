@@ -1,9 +1,9 @@
 
- 
-package Apache::Ocsinventory::Plugins::Sharedfolder::Map;
- 
+
+package Apache::Ocsinventory::Plugins::Sharedfolders::Map;
+
 use strict;
- 
+
 use Apache::Ocsinventory::Map;
 
 $DATA_MAP{sharedfolders} = {
